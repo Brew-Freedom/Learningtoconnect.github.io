@@ -1,25 +1,14 @@
-
-
-# Welcome to Learning to Connect
-
-A safe space for people who struggle with communication and maintaining friendships.
-
-Here, you can:
-- Read real stories
-- Share your experiences
-- Get practical tips for maintaining friendships
-
+---
+layout: default
+title: Learning to Connect
 ---
 
-## Featured Post
+<h2>Welcome to Learning to Connect</h2>
+<p>A safe space for people who struggle with communication and maintaining friendships. Share stories, learn from experiences, and grow together.</p>
 
-[Why This Site Exists](/2026/04/01/first-post.html)
+<h3>Featured Post</h3>
+<p><a href="/2026/04/01/first-post.html">Why This Site Exists</a></p>
 
----
-
-## Share Your Experience
-
-If this felt familiar, you’re not alone.  
-We’re building a shared space where people can contribute experiences and advice.
-
-👉 [Contribute Here](/contribute.html)
+<h3>How You Can Participate</h3>
+<p>We want to hear your stories and tips. Everyone is welcome to contribute, no matter your experience.</p>
+<a class="button" href="/contribute.html">Share Your Story</a>
