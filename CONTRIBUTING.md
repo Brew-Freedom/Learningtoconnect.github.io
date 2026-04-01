@@ -35,3 +35,13 @@ This is a safe space.
 ## No harassment or discrimination
 
 We’re here to support—not judge.
+---
+
+## Share Your Experience
+
+If you relate to this, you’re not alone.
+
+I’m building this as a space where people can share real experiences about communication and friendships.
+
+You can contribute here:
+[Contribute Page]
