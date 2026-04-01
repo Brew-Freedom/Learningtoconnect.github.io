@@ -18,4 +18,3 @@ You can:
 
 No expertise needed—just honesty.
 
-See CONTRIBUTING.md for details.
