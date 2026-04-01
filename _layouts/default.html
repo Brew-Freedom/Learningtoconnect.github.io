@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>{{ page.title }}</title>
+  <link rel="stylesheet" href="{{ '/assets/css/style.css' | relative_url }}">
+</head>
+<body>
+  <header>
+    <h1>Learning to Connect</h1>
+    <nav>
+      <a href="{{ '/' | relative_url }}">Home</a>
+      <a href="{{ '/about.html' | relative_url }}">About</a>
+      <a href="{{ '/contribute.html' | relative_url }}">Contribute</a>
+      <a href="{{ '/resources.html' | relative_url }}">Resources</a>
+    </nav>
+  </header>
+
+  <div class="main-content">
+    {{ content }}
+  </div>
+
+  <footer>
+    © 2026 Learning to Connect
+  </footer>
+</body>
+</html>
