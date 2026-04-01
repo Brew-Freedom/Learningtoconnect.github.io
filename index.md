@@ -1,7 +1,4 @@
----
-layout: home
-title: Learning to Connect
----
+
 
 # Welcome to Learning to Connect
 
