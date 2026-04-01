@@ -1,3 +1,5 @@
-theme: minima
 title: Learning to Connect
-description: A space for people who struggle with communication and friendships.
+description: A community space for people struggling with communication and friendships.
+theme: minima
+baseurl: ""  # leave blank for GitHub Pages
+url: "https://brew-freedom.github.io"
