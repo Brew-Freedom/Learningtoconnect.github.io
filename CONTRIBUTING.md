@@ -26,3 +26,12 @@ Your content here.
 - Be respectful
 - No hate speech
 - Keep it real, not perfect
+# Code of Conduct
+
+This is a safe space.
+
+## Be kind
+## Be respectful
+## No harassment or discrimination
+
+We’re here to support—not judge.
