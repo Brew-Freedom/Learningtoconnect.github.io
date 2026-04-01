@@ -2,7 +2,7 @@
 
 A community project for people who struggle with communication and maintaining friendships.
 
-## նպ Why this exists
+## Why this exists
 Many of us find it hard to:
 - start conversations
 - maintain friendships
