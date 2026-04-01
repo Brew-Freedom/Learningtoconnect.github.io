@@ -39,3 +39,46 @@ footer {
   padding: 15px;
   margin-top: 40px;
 }
+/* Base */
+body {
+  margin: 0;
+  font‑family: Arial, sans‑serif;
+  background: #f5f7fa;
+  color: #333;
+}
+
+/* Header */
+header {
+  background: #2b6cb0;
+  color: white;
+  padding: 20px;
+  text‑align: center;
+}
+header nav a {
+  color: white;
+  margin: 0 12px;
+  text‑decoration: none;
+  font‑weight: bold;
+}
+header nav a:hover {
+  text‑decoration: underline;
+}
+
+/* Main content */
+.main‑content {
+  margin: 40px auto;
+  max‑width: 800px;
+  background: white;
+  padding: 25px;
+  box‑shadow: 0 0 8px rgba(0,0,0,0.1);
+  border‑radius: 8px;
+}
+
+/* Footer */
+footer {
+  text‑align: center;
+  padding: 15px;
+  background: #2b6cb0;
+  color: white;
+  font‑size: 0.9em;
+}
